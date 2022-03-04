@@ -5,7 +5,7 @@ v-container
       v-card(outlined)
         v-card-title {{ cardTitle }}
         example
-        v-btn(@click="$router.push(`/${$store.getters['organization/slug']}/develop/testenowindows`)")
+        v-btn(@click="$router.push(`/${$store.getters['organization/slug']}/develop/example`)")
 </template>
 
 <script>

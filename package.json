@@ -41,7 +41,8 @@
   },
   "quoti": {
     "extensions": [
-      "src/pages/example/index.vue"
+      "src/pages/example/index.vue",
+      "src/pages/example2/index.vue"
     ]
   }
 }
