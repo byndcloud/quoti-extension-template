@@ -21,7 +21,7 @@
     "vue": "^2.6.11",
     "vue-eslint-parser": "^8.3.0",
     "vue-loader": "^15.9.8",
-    "vuetify": "^2.6.0"
+    "vuetify": "^2.6.3"
   },
   "devDependencies": {
     "@prettier/plugin-pug": "^1.16.6",
