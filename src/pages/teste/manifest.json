@@ -1,0 +1,14 @@
+{
+  "extensionId": 100262,
+  "type": "build",
+  "name": "(Develop) Teste",
+  "extensionUUID": "e8986760-05f6-45cf-a8ea-6154265731c4",
+  "meta": {
+    "public": false,
+    "configs": null,
+    "hasDrawer": true,
+    "hasToolbar": true,
+    "ignoreBasePath": false
+  },
+  "institution": "iamspe-hom"
+}
