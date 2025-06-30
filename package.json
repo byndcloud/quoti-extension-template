@@ -8,27 +8,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@prettier/plugin-pug": "^1.19.3",
     "core-js": "^3.6.5",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-vuetify": "^1.1.0",
     "prettier": "^2.6.0",
-    "sanitize-html": "^2.7.0",
-    "sass": "^1.26.10",
-    "sass-loader": "^10.0.2",
-    "tus-js-client": "^2.3.1",
-    "vue": "^2.6.11",
+    "vue": "^2.7.16",
     "vue-eslint-parser": "^8.3.0",
     "vue-loader": "^15.9.8",
-    "vuetify": "^2.6.3"
+    "vuetify": "^2.6.3",
+    "vuex": "^3.6.2",
+    "vuex-map-fields": "^1.4.1",
+    "winston": "^3.13.0"
   },
   "devDependencies": {
     "@prettier/plugin-pug": "^1.16.6",
     "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/eslint-config-prettier": "^7.0.0",
+    "@vue/language-plugin-pug": "^2.2.10",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.28.0",
     "eslint-plugin-prettier": "^4.0.0",
@@ -37,7 +32,7 @@
     "sass": "~1.32.0",
     "sass-loader": "^10.0.0",
     "vue-cli-plugin-pug": "^2.0.0",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "^2.7.16",
     "vuetify-loader": "^1.7.0"
   },
   "eslintConfig": {
