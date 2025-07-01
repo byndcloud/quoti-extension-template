@@ -56,5 +56,8 @@
     "^:?data-",
     "^@click",
     "^@"
+  ],
+  "plugins": [
+    "@prettier/plugin-pug"
   ]
 }
