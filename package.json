@@ -10,8 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "prettier": "^2.6.0",
-    "sanitize-html": "^2.7.0",
-    "tus-js-client": "^2.3.1",
     "vue": "^2.7.16",
     "vue-eslint-parser": "^8.3.0",
     "vue-loader": "^15.9.8",
@@ -34,7 +32,7 @@
     "sass": "~1.32.0",
     "sass-loader": "^10.0.0",
     "vue-cli-plugin-pug": "^2.0.0",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "^2.7.16",
     "vuetify-loader": "^1.7.0"
   },
   "eslintConfig": {
@@ -52,8 +50,6 @@
     "rules": {}
   },
   "quoti": {
-    "extensions": [
-      "src/pages/teste/index.vue"
-    ]
+    "extensions": []
   }
 }
