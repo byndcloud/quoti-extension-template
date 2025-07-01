@@ -38,7 +38,7 @@ async function buildExtensions() {
           }
         },
         outDir: `build-local/${name}`,
-        emptyOutDir: true // para não apagar os builds anteriores
+        emptyOutDir: true
       },
       resolve: {
         alias: {
